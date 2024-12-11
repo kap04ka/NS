@@ -1,0 +1,3 @@
+D:/NS/build/CMakeFiles/NS.dir
+D:/NS/build/CMakeFiles/edit_cache.dir
+D:/NS/build/CMakeFiles/rebuild_cache.dir
